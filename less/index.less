@@ -1,0 +1,33 @@
+.mixin(@size,@color,@direction){
+    float: left;
+    width: 0;
+    height: 0;
+    border: @size solid transparent;
+    border-@{direction}-color : @color;
+}
+
+.top1{
+    .mixin(100px, red, top);
+};
+.top2{
+    .mixin(50px, blue, top);
+};
+.right1{
+    .mixin(50px, red, right);
+};
+.right2{
+    margin-right: 50px;
+    .mixin(100px, red, right);
+};
+.left1{
+    .mixin(100px, blue, left);
+};
+.left2{
+    .mixin(50px, blue, left);
+};
+.bottom1{
+    .mixin(100px, red, bottom);
+};
+.bottom2{
+    .mixin(50px, blue, bottom);
+};

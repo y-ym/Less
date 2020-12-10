@@ -1,0 +1,116 @@
+.top1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-top-color: red;
+}
+.top2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top-color: blue;
+}
+.right1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-right-color: red;
+}
+.right2 {
+  margin-right: 50px;
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-right-color: red;
+}
+.left1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-left-color: blue;
+}
+.left2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-left-color: blue;
+}
+.bottom1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-bottom-color: red;
+}
+.bottom2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom-color: blue;
+}
+
+.top1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-top-color: red;
+}
+.top2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top-color: blue;
+}
+.right1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-right-color: red;
+}
+.right2 {
+  margin-right: 50px;
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-right-color: red;
+}
+.left1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-left-color: blue;
+}
+.left2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-left-color: blue;
+}
+.bottom1 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-bottom-color: red;
+}
+.bottom2 {
+  float: left;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom-color: blue;
+}
+
